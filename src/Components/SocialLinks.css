@@ -1,0 +1,47 @@
+.social-links img {
+  width: 100px;
+  height: 100px;
+  margin: 0 10px;
+  transition: all 0.5s ease-in-out;
+}
+.social-links .ig {
+  width: 100px;
+  height: 100px;
+}
+.social-links {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.social-links img:hover {
+  transform: scale(1.2);
+}
+
+@media (max-width: 600px) {
+  .social-links img {
+    width: 70px;
+    height: 70px;
+    margin: 0 10px;
+    transition: all 0.5s ease-in-out;
+  }
+  .social-links .ig {
+    width: 74px;
+    height: 74px;
+  }
+  .social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .social-links img:hover {
+    transform: scale(1.2);
+  }
+}
