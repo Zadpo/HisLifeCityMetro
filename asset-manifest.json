@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HisLifeCityMetro/index.html/static/css/main.4e72f108.css",
-    "main.js": "/HisLifeCityMetro/index.html/static/js/main.6f1e6f5c.js",
+    "main.js": "/HisLifeCityMetro/index.html/static/js/main.20c0dff7.js",
     "static/media/Instagram.png": "/HisLifeCityMetro/index.html/static/media/Instagram.ba89a85d94f188c85452.png",
     "static/media/Facebook.png": "/HisLifeCityMetro/index.html/static/media/Facebook.7692f9041e7c7e213b2f.png",
     "static/media/wf8.jpg": "/HisLifeCityMetro/index.html/static/media/wf8.45cbbc0c8102eefacc23.jpg",
@@ -48,10 +48,10 @@
     "static/media/wt15.jpg": "/HisLifeCityMetro/index.html/static/media/wt15.1eb62c43da05f80af2f3.jpg",
     "index.html": "/HisLifeCityMetro/index.html/index.html",
     "main.4e72f108.css.map": "/HisLifeCityMetro/index.html/static/css/main.4e72f108.css.map",
-    "main.6f1e6f5c.js.map": "/HisLifeCityMetro/index.html/static/js/main.6f1e6f5c.js.map"
+    "main.20c0dff7.js.map": "/HisLifeCityMetro/index.html/static/js/main.20c0dff7.js.map"
   },
   "entrypoints": [
     "static/css/main.4e72f108.css",
-    "static/js/main.6f1e6f5c.js"
+    "static/js/main.20c0dff7.js"
   ]
 }
