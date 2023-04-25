@@ -118,7 +118,7 @@ class ImageGallery extends Component {
 
     return (
       <><div className="logo">
-        <h1>His Life City Metro</h1>
+        <h1>His Life City Metros</h1>
         </div><div>
           <div className="categories">
             {["Kidz Life", "Catalyst", "Worship Team", "Wildfire", "Pastors" ].map((category) => (
