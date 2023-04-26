@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/HisLifeCityMetro/static/css/main.42460c9a.css",
+    "main.css": "/HisLifeCityMetro/static/css/main.158b4251.css",
     "main.js": "/HisLifeCityMetro/static/js/main.34a3631b.js",
     "static/media/Instagram.png": "/HisLifeCityMetro/static/media/Instagram.ba89a85d94f188c85452.png",
     "static/media/Facebook.png": "/HisLifeCityMetro/static/media/Facebook.7692f9041e7c7e213b2f.png",
@@ -47,11 +47,11 @@
     "static/media/wt17.jpg": "/HisLifeCityMetro/static/media/wt17.fdf09bf82a62c3c671ea.jpg",
     "static/media/wt15.jpg": "/HisLifeCityMetro/static/media/wt15.1eb62c43da05f80af2f3.jpg",
     "index.html": "/HisLifeCityMetro/index.html",
-    "main.42460c9a.css.map": "/HisLifeCityMetro/static/css/main.42460c9a.css.map",
+    "main.158b4251.css.map": "/HisLifeCityMetro/static/css/main.158b4251.css.map",
     "main.34a3631b.js.map": "/HisLifeCityMetro/static/js/main.34a3631b.js.map"
   },
   "entrypoints": [
-    "static/css/main.42460c9a.css",
+    "static/css/main.158b4251.css",
     "static/js/main.34a3631b.js"
   ]
 }
