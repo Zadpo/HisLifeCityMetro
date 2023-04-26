@@ -9,13 +9,10 @@ import cat4 from "./images/cat4.jpg";
 import cat5 from "./images/cat5.jpg";
 import cat6 from "./images/cat6.jpg";
 import cat7 from "./images/cat7.jpg";
-
-
 import kids1 from "./images/kids1.jpg";
 import kids2 from "./images/kids2.jpg";
 import kids3 from "./images/kids3.jpg";
 import kids4 from "./images/kids4.jpg";
-
 import wf1 from "./images/wf1.jpg";
 import wf2 from "./images/wf2.jpg";
 import wf3 from "./images/wf3.jpg";
@@ -59,7 +56,6 @@ class ImageGallery extends Component {
       { filename: cat5, caption: "", category: "Catalyst" },
       { filename: cat6, caption: "", category: "Catalyst" },
       { filename: cat7, caption: "", category: "Catalyst" },
-
       { filename: kids1, caption: "", category: "Kidz Life"},
       { filename: kids2, caption: "", category: "Kidz Life"},
       { filename: kids3, caption: "", category: "Kidz Life"},

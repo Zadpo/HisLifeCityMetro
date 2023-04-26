@@ -4,10 +4,12 @@ html {
 .logo {
   color: #333;
   font-family: 'Bebas Neue', sans-serif;
-
   margin-left: 10px;
   font-size: 15px;
   text-align: center;
+  letter-spacing: 40px;
+  margin-left: 10px;
+  font-size: 50px;
 }
 .categories {
     display: flex;
